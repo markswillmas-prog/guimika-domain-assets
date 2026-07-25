@@ -1,0 +1,1 @@
+# guimika-domain-assets
